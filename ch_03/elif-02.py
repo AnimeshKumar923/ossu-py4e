@@ -1,5 +1,4 @@
-x = input("Enter number:")
-fnum = int(x)
+x=1
 
 if x < 2:
     print('small')
