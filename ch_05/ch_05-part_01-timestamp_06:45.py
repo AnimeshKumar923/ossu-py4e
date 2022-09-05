@@ -5,4 +5,4 @@ while True:
     print(line)
 print('Done!')
 
-# break function breaks the loop and ends with the outermost indentend block and runs the that
+# break function breaks the loop and ends with the outermost indentend block just outside the loop block and runs the that.
