@@ -1,4 +1,4 @@
 a = input("Enter a word/sentence: ")
 
 b = a.upper()
-print(b)
+print('Hello',b)
