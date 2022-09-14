@@ -1,5 +1,5 @@
 line = 'Please have a nice day'
 
-line.startswith('Please')
+a = line.startswith('Please')
 
-line.startswith('p')
+b = line.startswith('p')
