@@ -7,3 +7,5 @@
 # w-> file opens in write mode
 
 handle = open('demo-file.txt', 'r')
+
+print(handle)
