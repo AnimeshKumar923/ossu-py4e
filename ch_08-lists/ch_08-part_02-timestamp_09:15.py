@@ -2,6 +2,8 @@
 
 # method 1
 
+'''
+
 total=0
 count=0
 
@@ -16,6 +18,21 @@ while True:
 average = total/count
 print('Average:', average)
 
-
+'''
 
 # method 2
+
+'''
+numlist = list()
+
+while True:
+    inp = input('Enter a number: ')
+    if inp == 'done':
+        break
+    value = float(inp)
+    numlist.append(value)
+
+    average = sum(numlist)/len(numlist)
+    print('Average:', average)
+
+'''
