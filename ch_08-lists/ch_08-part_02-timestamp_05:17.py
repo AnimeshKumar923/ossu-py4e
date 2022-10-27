@@ -4,6 +4,8 @@
 
 # the sort method (unlike in strings) means "sort yourself"
 
+# lists are mutable unlike strings
+
 friends = ['Joseph', 'George', 'Vandana']
 friends.sort()
 print(friends)
