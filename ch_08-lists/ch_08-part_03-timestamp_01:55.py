@@ -9,3 +9,7 @@ print(splitting)
 print(len(splitting))
 
 print(splitting[1])
+
+print('The words are:')
+for w in splitting:
+    print(w)
