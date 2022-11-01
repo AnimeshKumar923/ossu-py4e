@@ -14,3 +14,5 @@ print(bag['toffee'])
 
 bag['money'] = bag['money'] + 100
 print(bag)
+
+# dictionaries are like lists except that they use keys instead of numbers to look up values.
