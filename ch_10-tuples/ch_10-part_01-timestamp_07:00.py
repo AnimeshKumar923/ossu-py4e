@@ -1,6 +1,6 @@
 # tuples and dictionaries
 
-# the items() method in dictionarires returns a list of (key, value) tuples.
+# the items() method in dictionaries returns a list of (key, value) tuples.
 
 d = dict()
 
