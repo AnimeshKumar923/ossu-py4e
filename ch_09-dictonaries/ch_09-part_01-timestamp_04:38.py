@@ -12,6 +12,8 @@ print(bag)
 
 print(bag['toffee'])
 
+# modifing the value in dictionary 
+
 bag['money'] = bag['money'] + 100
 print(bag)
 

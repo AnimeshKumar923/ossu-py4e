@@ -1,6 +1,3 @@
-from tkinter import Y
-
-
 fruit = 'banana'
 letter = fruit[1]
 print(letter)

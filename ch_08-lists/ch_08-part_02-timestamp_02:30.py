@@ -1,5 +1,7 @@
+#initializing a list
+
 x = list()
-type(x)
+print(type(x))
 
 #dir(x)
 
