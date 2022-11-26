@@ -13,4 +13,5 @@ This repository will contain projects from py4e and some testing files to apply 
 - Completed chapter 6 (Strings)
 - Completed chapter 7 (Files)
 - Completed chapter 8 (Lists)
-- Completing chapter 9 (Dictionaries)
+- Completed chapter 9 (Dictionaries)
+- Completed chapter 10 (Tuples)
